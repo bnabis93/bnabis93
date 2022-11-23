@@ -3,10 +3,6 @@
 ### Machine Learning Engineer
 - Hi, I'm machine learning engineer with experience applying deep learning in mobile services and the medical field. Currently, I working to use my skillset in MLOps to apply deep learning in real‐world products. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnabis93)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 <div align=center>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qhsh9713@gmail.com)](mailto:qhsh9713@gmail.com)
